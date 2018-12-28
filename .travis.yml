@@ -3,7 +3,7 @@ language: go
 go:
   - tip
 
-go_import_path: git.fractalqb.de/fractalqb/nmconv
+go_import_path: github.com/fractalqb/nmconv
 
 install:
   - go get -u -t

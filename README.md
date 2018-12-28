@@ -1,7 +1,7 @@
 # nmconv
 [![Build Status](https://travis-ci.org/fractalqb/nmconv.svg)](https://travis-ci.org/fractalqb/nmconv)
 
-`import "git.fractalqb.de/fractalqb/nmconv"`
+`import "github.com/Awarrior91/nmconv"`
 
 ---
 
